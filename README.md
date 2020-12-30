@@ -37,5 +37,4 @@
 
 ![report_gsm_tower](https://user-images.githubusercontent.com/54750837/103308478-963fb380-4a23-11eb-8157-ba0f71b16d74.png)
 
-I can also add a figure -as a collaborator to the project-. Here comes a nice figure on 5G.
-![5g_img](img/5g.jpg)
+
