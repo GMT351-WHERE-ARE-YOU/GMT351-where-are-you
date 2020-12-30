@@ -17,8 +17,9 @@
 
 
 ### Purpose of Project
-##### In the project, it is aimed to find the instant location of the user by phone and to perform location-based queries.
- 2 methods will be used for this purpose:
+**In the project, it is aimed to find the instant location of the user by phone and to perform location-based queries.**
+
+2 methods will be used for this purpose:
 
 ### Method 1 - GSM Tower Triangulation
 - It is aimed to find a location by triangulation method using GSM towers to which the users phone is connected.
@@ -31,7 +32,10 @@
 
 ------------
 
-#### In both methods, parameters such as the length and duration of the route can be presented to the user. Location-based inquiries can be made on the route.
+**In both methods, parameters such as the length and duration of the route can be presented to the user. Location-based inquiries can be made on the route.**
 
 
 ![report_gsm_tower](https://user-images.githubusercontent.com/54750837/103308478-963fb380-4a23-11eb-8157-ba0f71b16d74.png)
+
+I can also add a figure -as a collaborator to the project-. Here comes a nice figure on 5G.
+![5g_img](img/5g.jpg)
