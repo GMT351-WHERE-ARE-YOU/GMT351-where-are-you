@@ -26,8 +26,8 @@ def executeSomething():
         break
 
 
-schedule.every(1).seconds.do(executeSomething)#This code run every 10 seconds
-#schedule.every().hour.do(executeSomething())
+schedule.every(1).seconds.do(executeSomething)#This code runs every 1 seconds
+#schedule.every().hour.do(executeSomething())#This code runs every 1 hours
 
 
 while 1:
