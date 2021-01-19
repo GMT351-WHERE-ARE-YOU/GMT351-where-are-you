@@ -1,1 +1,35 @@
 
+from pymongo import MongoClient
+import folium
+import exact_location
+import dynamic
+
+def query_Ip(ıp_Ad):
+
+    client = MongoClient('localhost',27017)
+
+    db = client['nested']
+
+    col = db.ıp_add
+
+
+    myquery = { "phone number" : ıp_Ad}
+
+    mydoc = col.find(myquery)
+
+    for x in mydoc:
+
+        name = x["person"]
+        phone = x["phone number"]
+
+
+    coo= dynamic.executeSomething()
+
+
+
+
+    exact_location.db_dynamic(name,10,ıp_Ad, x())
+
+
+
+query_Ip(10)
